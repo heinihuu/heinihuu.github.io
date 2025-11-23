@@ -29,9 +29,13 @@ GitHub Coplit on tällä hetkellä yksi markkinoiden parhaista ohjelmointityöka
 Lähteet
 
 Daws, R. (2025, April 4). GitHub boosts Copilot with agents, new models, and MCP support. Developer-Tech. https://www.developer-tech.com/news/github-boosts-copilot-agents-new-models-and-mcp-support/
+
 Dohmke, T. (2023, January 25). 100 million developers and counting. The GitHub Blog. https://github.blog/news-insights/company-news/100-million-developers-and-counting/
+
 Fu, Y., Liang, P., Tahir, A., Li, Z., Shahin, M., Yu, J., & Chen, J. (2025). Security weaknesses of copilot-generated code in github projects: An empirical study. ACM Transactions on Software Engineering and Methodology, 34(8), 1-34.
+
 GitHub. (2025, March 6). GitHub Copilot updates in Visual Studio Code February release (v0.25), including improvements to agent mode and Next Edit Suggestions, general availability of custom instructions, and more! [Blog post]. The GitHub Blog. https://github.blog/changelog/2025-03-06-github-copilot-updates-in-visual-studio-code-february-release-v0-25-including-improvements-to-agent-mode-and-next-exit-suggestions-ga-of-custom-instructions-and-more/
+
 Xebia. (2025, September 29). Weekly AI and tech news roundup [Blog post]. Tech Insights – Xebia. https://tech.xebia.ms/2025-09-29-Weekly-AI-and-Tech-News-Roundup.html
  
 
