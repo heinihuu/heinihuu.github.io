@@ -1,5 +1,7 @@
 # GitHub Copilot – tehokas työpari vai riskialtis renki? 
 
+<img src="R.png" alt="github">
+
 Tekoäly on mullistanut maailman vain muutamassa vuodessa ja siitä on tullut myös varteenotettava työkalu ohjelmakoodin kirjoittamiseen. GitHub on pilvipohjainen ohjelmistokehityksen alusta, jossa kehittäjät voivat hallita ja jakaa ohjelmakoodia.  GitHub on perustettu vuonna 2008 ja tänä päivänä sillä on jo yli 100 miljoonaa käyttäjää, mikä tekee siitä ehdottomasti maailman suurimman ohjelmoijien sosiaalisen verkoston. 
 
 Copilot on Githubin lanseeraama tekoälypohjainen ohjelmointityökalu, joka osaa:
