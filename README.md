@@ -16,13 +16,36 @@ Copilot on laajalti käytössä ja monet ohjelmoijat vannovat sen nimeen, mutta 
 
 Copilot nopeuttaa koodin kirjoittamista, siitä ei ole epäilystäkään. Ohjelma antaa ohjelmistokehittäjälle ehdotuksia ja ideoita koodia varten ja osaa myös itse kirjoittaa koodin ohjelmoijalle valmiiksi. Copilot on integroitu erilaisiin ohjelmointiympäristöihin kuten VS Codeen ja Visual Studioon, jolloin sitä voi sujuvasti käyttää koodaamisen ohessa. Copilot kehittyy koko ajan ja uusimmassa versiossa Copilot osaa jo suunnitella tehtäviä ja tehdä muutoksia itse. Copilotin kehittäminen on aloitettu vuonna 2021 ja jos miettii, että mihin kaikkeen se pystyy jo nyt, niin nähtäväksi jää mitä kaikkea se osaakaan esim. kymmenen vuoden päästä.
 
+<b>Hyödyt</b>
+
+<ul> 
+<li>Nopeuttaa toistuvia koodausprosesseja</li>
+<li>Tarjoaa ideoita ja ehdotuksia</li>
+<li>Kehittyy koko ajana</li>
+</ul>
+
 Kontekstin ymmärtäminen on ollut yksi tekoälyn suurimmista haasteista. Tämä on ollut myös Copilotin haaste, sillä ymmärtämättä kokonaiskuvaa ja projektin logiikkaa, ehdotukset voivat olla virheellisiä ja viedä projektia ihan väärään suuntaan. Tässäkin Copilot on kuitenkin kehittynyt jo paljon ja ymmärtää projektin logiikkaa yksittäisiä riviehdotuksia pidemmälle. Copilotista on olemassa sekä ilmaisversio että maksullinen versio ja luonnollisesti maksullinen ymmärtää kokonaiskuvaa paremmin kuin ilmaisversio.
+
+<b>Haasteet</b>
+
+<ul> 
+<li>Haasteita kokonaisuuden ymmärtämisen kanssa</li>
+<li>Ilmaisversio on rajallinen</li>
+</ul>
 
 <b>Kehittäjä on aina vastuussa koodista</b>
 
 Copilot vaikuttaa paperilla täydelliseltä työkaverilta, se auttaa ohjelmistokehittäjää koodin kirjoittamisessa ja kirjoittaa sitä myös valmiiksi. Työkalulla on kuitenkin myös paljon heikkouksia ja käsittelemme niitä seuraavaksi. Copilot on tehokas, mutta sen ehdotukset saattavat sisältää vakaviakin virheitä. Koodissa voi myös esiintyä turvallisuusongelmia, jotka päätyessään varsinaiseen ohjelmaan asti voivat olla todella iso ongelma. Copilotin kanssa pitäisikin aina muistaa se, että sen tuottamaan koodiin ei voi luottaa absoluuttisesti vaan kehittäjän on aina tarkistettava koodi. 
 
 Opiskelijan näkökulmasta Copilot ja vastaavat työkalut ovat suoraan sanottuna vaarallisia. Jokaisen ohjelmistokehittäjän pitää osata koodata edes jollain tasolla ja tekoälyn käyttäminen koodauksessa voi merkittävästi heikentää noita taitoja. Voiko ”tekoälyoppinut” ohjelmistokehittäjä tarkistaa tekoälyn tuottamaan koodia ja löytää sieltä kaikki virheet? Todennäköisesti ei. 
+
+Keskeistä muistaa Copilotia käyttäessä
+
+<ul> 
+<li>Tarkista<b>aina</b> tekoälyn tuottama koodi</li>
+<li>Tiedosta turvallisuusriskit</li>
+<li>Varmista, että ymmärrät koodin logiikan</li>
+</ul>
 
 <b>Tekoäly on loistava työkalu sopivan ohjelmistokehittäjän käsissä</b>
 
