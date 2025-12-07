@@ -39,7 +39,7 @@ Copilot vaikuttaa paperilla täydelliseltä työkaverilta, se auttaa ohjelmistok
 
 Opiskelijan näkökulmasta Copilot ja vastaavat työkalut ovat suoraan sanottuna vaarallisia. Jokaisen ohjelmistokehittäjän pitää osata koodata edes jollain tasolla ja tekoälyn käyttäminen koodauksessa voi merkittävästi heikentää noita taitoja. Voiko ”tekoälyoppinut” ohjelmistokehittäjä tarkistaa tekoälyn tuottamaan koodia ja löytää sieltä kaikki virheet? Todennäköisesti ei. 
 
-<h1>Keskeistä muistaa Copilotia käyttäessä</h1>
+<h2>Keskeistä muistaa Copilotia käyttäessä</h2>
 
 <ul> 
 <li>Tarkista <b>aina</b> tekoälyn tuottama koodi</li>
