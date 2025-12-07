@@ -12,7 +12,7 @@ Copilot on Githubin lanseeraama tekoälypohjainen ohjelmointityökalu, joka osaa
 
 Copilot on laajalti käytössä ja monet ohjelmoijat vannovat sen nimeen, mutta samanaikaisesti ohjelmistonkehityksessä kuhistaan, että tekoäly kirjoittaa huonoa koodia nopeammin kuin me voimme sitä korjata. Onko Copilotista (ja muista vastaavista tekoälypohjaisista ohjelmointityökaluista) loputa enemmän haittaa vai hyötyä? 
 
-<img src="Tekoaly1-scaled.jpg" alt="github" width="50%" height="50%">
+<img src="Tekoaly1-scaled.jpg" alt="github" width="100%" height="100%">
 
 <h2>Copilot ohjelmistokehittäjän apuna</h2>
 
@@ -35,7 +35,7 @@ Kontekstin ymmärtäminen on ollut yksi tekoälyn suurimmista haasteista. Tämä
 <li>Ilmaisversio on rajallinen</li>
 </ul>
 
-<img src="koodaus.jpg" alt="github" width="50%" height="50%">
+<img src="koodaus.jpg" alt="github" width="100%" height="100%">
 
 <h2>Kehittäjä on aina vastuussa koodista</h2>
 
@@ -57,7 +57,7 @@ Kokeneelle ohjelmistokehittäjälle Copilot voi olla todella arvokas työkalu, j
 
 Copilot sopii myös erityisen hyvin sellaisiin projekteihin, joissa on paljon toistuvia yksinkertaisia tehtäviä. Näissäkin toki on äärimmäisen tärkeää, että tekoälyn tuottama koodi tarkistetaan, mutta ajallinen hyöty voi olla niin suuri, että olisi tyhmää olla hyödyntämättä tekoälyä. Tietoturva ja tekoäly eivät myöskään ole paras parivaljakko ja mikäli projektissa tietoturva-asiat on äärimmäisen tärkeitä niin ehkä tekoäly kannattaa unohtaa kokonaan. 
 
-<img src="AdobeStock_302644694-1.jpg" alt="github" width="50%" height="50%">
+<img src="AdobeStock_302644694-1.jpg" alt="github" width="100%" height="100%">
 
 <h2>Erinomainen renki – mutta huono isäntä</h2>
 
