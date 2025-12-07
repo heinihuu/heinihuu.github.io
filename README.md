@@ -2,7 +2,15 @@
 
 Tekoäly on mullistanut maailman vain muutamassa vuodessa ja siitä on tullut myös varteenotettava työkalu ohjelmakoodin kirjoittamiseen. GitHub on pilvipohjainen ohjelmistokehityksen alusta, jossa kehittäjät voivat hallita ja jakaa ohjelmakoodia.  GitHub on perustettu vuonna 2008 ja tänä päivänä sillä on jo yli 100 miljoonaa käyttäjää, mikä tekee siitä ehdottomasti maailman suurimman ohjelmoijien sosiaalisen verkoston. 
 
-Copilot on Githubin lanseeraama tekoälypohjainen ohjelmointityökalu, joka osaa täydentää ohjelmakoodia, luo funktioita ja auttaa koodin refaktoroinnissa. Copilot on laajalti käytössä ja monet ohjelmoijat vannovat sen nimeen, mutta samanaikaisesti ohjelmistonkehityksessä kuhistaan, että tekoäly kirjoittaa huonoa koodia nopeammin kuin me voimme sitä korjata. Onko Copilotista (ja muista vastaavista tekoälypohjaisista ohjelmointityökaluista) loputa enemmän haittaa vai hyötyä? 
+Copilot on Githubin lanseeraama tekoälypohjainen ohjelmointityökalu, joka osaa:
+
+<ul> 
+<li>Täydentää ohjelmakoodia</li>
+<li>Luo funktioita</li>
+<li>Auttaa koodin refaktoroinnissa</li>
+</ul>
+
+Copilot on laajalti käytössä ja monet ohjelmoijat vannovat sen nimeen, mutta samanaikaisesti ohjelmistonkehityksessä kuhistaan, että tekoäly kirjoittaa huonoa koodia nopeammin kuin me voimme sitä korjata. Onko Copilotista (ja muista vastaavista tekoälypohjaisista ohjelmointityökaluista) loputa enemmän haittaa vai hyötyä? 
 
 <b>Copilot ohjelmistokehittäjän apuna</b>
 
